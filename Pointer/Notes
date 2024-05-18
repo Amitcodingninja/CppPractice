@@ -1,0 +1,7 @@
+ ✅Adress Print krwane ke tarike 
+  int arr[5] = {1, 2, 3, 4, 5};
+  int *ptr = arr;
+  cout << arr << endl;
+  cout << arr + 0 << endl;
+  cout << &arr[0] << endl;
+  cout << ptr << endl;
